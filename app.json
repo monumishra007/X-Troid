@@ -1,6 +1,6 @@
 {
-    "name": "X-Troid",
-    "description": "World First sinhala whatsapp bot",
+    "name": "D3VIL-BOT",
+    "description": "World First indian whatsapp bot",
     "logo": "https://telegra.ph/file/43e16e51660004dee32d0.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai"],
     "repository": "",
@@ -8,8 +8,8 @@
     "success_url": "https://t.me/danumabots",
     "stack": "container",
     "env": {
-        "A_XTROID_SESSION": {
-            "description": "Type here yours X-Troid Session (after get scanning QR)  QR කේතය scan කර ලබාගත් අදාල කේතය මෙහි යොදන්න.",
+        "DEVIL-BOT_SESSON": {
+            "description": "Type here yours D3VIL-BOT Session (after get scanning QR)  QR කේතය scan කර ලබාගත් අදාල කේතය මෙහි යොදන්න.",
             "required": true
         },
         "SUDO": {
@@ -113,7 +113,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back./ALIVE පණිවිඩය ඔබට අවශ්‍ය පරිදි වෙනස් කරගැනීමට",
             "required": false,
-            "value": "🧧 X-Troid 🧧\nName: X-Troid\nYoutube : youtu.be/mDnJ7q3S3eY\nInfo : type .bot"
+            "value": "🧧 D3VIL-BOT 🧧\nName: D3VIL-BOT\nYoutube : youtu.be/mDnJ7q3S3eY\nInfo : type .bot"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.යමෙකු සමුහයෙන් ඉවත් කරීමේ පණිවිඩය වෙනස් කිරීමට",
