@@ -32,7 +32,7 @@
             "value": "false"
         },
         "CP": {
-            "description": "Photo caption ;ලෝගෝ /පින්තුර පහළ ඇති නම වෙනස් කිරිමට අවශ්‍ය නම් මෙහි ඔබට අවශ්‍ය නම ලියන්න.",
+            "description": "Photo caption ;
             "required": false
         },
         "HANDLERS": {
@@ -41,7 +41,7 @@
             "value": "^[*.!;#]"
         },
         "NO_LOG": {
-            "description": "Set true if you don't want to see error log.නිතර පැමිණෙන දෝෂ පණිවුඩ නැවත තැබීමට මෙය මෙලෙසම තැබිය හැක",
+            "description": "Set true if you don't want to see error log.,
             "required": true,
             "value": "false"
         },
