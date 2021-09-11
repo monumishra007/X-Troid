@@ -3,7 +3,7 @@
 # Do not use this fore any commercial thing
 # If you abuse thais bot we wil kick you from bot 
 # Do not edit (Respect to the Devaoloper) 
-# All rights reserved ©Lasiya @lasiya99X t.me/lasiya99X
+        # All rights reserved ©Lasiya @lasiya99X t.me/lasiya99X
 # et more about devaoloper https://lasiya.ml
 */
 
@@ -14,7 +14,7 @@ const chalk = require('chalk');
 const config = require('./config');
 const Heroku = require('heroku-client');
 const {WAConnection, MessageOptions, MessageType, Mimetype, Presence} = require('@adiwajshing/baileys');
-const {Message, StringSession, Image, Video} = require('./whatsasena/');
+const {Message, StringSession, Image, Video} = require('./whatsa      sena/');
 const { DataTypes } = require('sequelize');
 const { GreetingsDB, getMessage } = require("./plugins/sql/greetings");
 const got = require('got');
