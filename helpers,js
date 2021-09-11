@@ -8,13 +8,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *x-Troid*:  ```" + msg + "```"
+    return "✅ *DEVIL-BOT*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *x-Troid*:  ```" + msg + "```"
+    return "🛑 *DEVIL-BOT*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *x-Troid*:  ```" + msg + "```"
+    return "⏺️ *DEVIL-BOT*:  ```" + msg + "```"
 }
 
 
